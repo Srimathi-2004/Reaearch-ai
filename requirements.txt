@@ -1,0 +1,33 @@
+# Backend Dependencies
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+kaggle==1.5.16
+
+# Vector Database & Embeddings
+chromadb==0.4.22
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+
+# LLM Integration
+openai==1.10.0
+anthropic==0.18.0
+tiktoken==0.5.2
+
+# Text Processing
+nltk==3.8.1
+spacy==3.7.2
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+aiofiles==23.2.1
+httpx==0.26.0
+
+# CORS
+python-jose==3.3.0
